@@ -1,0 +1,42 @@
+@include box-sizing {
+	box-sizing: border-box;
+	background-color: transparent;
+	border: 0;
+	border-bottom: 1px solid $color-pacific-blue;
+	outline: none;
+	padding-left: 2rem;
+}
+
+@include box-shadow {
+	box-shadow: 0 0 10px rgb(0 0 0 / 10%);
+	margin-bottom: 20px;
+}
+
+@include anchor {
+	text-decoration: none;
+	font-size: 16px;
+	font-weight: 400;
+	letter-spacing: 0;
+	font-family: $font-0;
+	line-height: 24px
+}
+
+@include index {
+	color: $color-gray;
+	font-size: 0.75em;
+	letter-spacing: 1px;
+	padding-bottom: 5px;
+	line-height:0.5;
+	margin-top: 0;
+}
+
+@include button {
+	width: 12%;
+	background-color: $color-pacific-blue;
+	font-size: 1.1em;
+	color: $white;
+	border: none;
+	cursor: pointer;
+	padding: 15px;
+	margin-left: 10px;
+}

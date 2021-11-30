@@ -1,0 +1,209 @@
+[{
+    "image": "./image/img1.jfif",
+    "name": "Alex Smith",
+    "title": "Licensed Associate Real Estate Broker",
+    "office": "212.702.4007",
+    "mobile": "917.763.8614",
+    "mail": "alex.smith@elliman.com"
+},
+{
+    "image": "./image/img2.jfif",
+    "name": "Ben Stokes",
+    "title": "Licensed Associate Real Estate Broker",
+    "office": "115.225.5685",
+    "mobile": "948.985.5989",
+    "mail": "stokes.ben@elliman.com"
+},
+{
+    "image": "./image/img3.jfif",
+    "name": "Carrie Smith",
+    "title": "Licensed Associate Real Estate Broker",
+    "office": "345.857.8562",
+    "mobile": "994.481.1497",
+    "mail": "carrie.smith@elliman.com"
+},
+{
+    "image": "./image/4.jfif",
+    "name": "David Frankel",
+    "title": "Licensed Associate Real Estate Broker",
+    "office": "218.704.4117",
+    "mobile": "988.873.8554",
+    "mail": "joeyfrankel@elliman.com"
+},
+{
+    "image": "./image/5.jfif",
+    "name": "Elliman Sicari",
+    "title": "Licensed Associate Real Estate Broker",
+    "office": "312.982.4777",
+    "mobile": "919.997.6584",
+    "mail": "melindasicari@elliman.com"
+},
+{
+    "image": "./image/6.jfif",
+    "name": "Feroz Libermann",
+    "title": "Licensed Associate Real Estate Broker",
+    "office": "287.254.5667",
+    "mobile": "917.763.8614",
+    "mail": "joshualiberman@elliman.com"
+},
+{
+    "image": "./image/7.jfif",
+    "name": "Ishan Signet",
+    "title": "Licensed Associate Real Estate Broker",
+    "office": "285.213.2507",
+    "mobile": "978.528.5468",
+    "mail": "michaelsignet@elliman.com"
+},
+{
+    "image": "./image/8.jfif",
+    "name": "James Mortimer",
+    "title": "Licensed Associate Real Estate Broker",
+    "office": "212.702.4007",
+    "mobile": "917.763.8614",
+    "mail": "riichardmortimer@elliman.com"
+},
+{
+    "image": "./image/9.jfif",
+    "name": "Lawrence Lennon",
+    "title": "Licensed Associate Real Estate Broker",
+    "office": "235.651.2079",
+    "mobile": "912.582.5644",
+    "mail": "robinelennon@elliman.com"
+},
+{
+    "image": "./image/10.jfif",
+    "name": "Mike Chapman",
+    "title": "Licensed Associate Real Estate Broker",
+    "office": "521.345.6987",
+    "mobile": "92.584.6589",
+    "mail": "mikechapman@elliman.com"
+},
+{
+    "image": "./image/11.jfif",
+    "name": "Nim Nemat",
+    "title": "Licensed Associate Real Estate Broker",
+    "office": "241.181.4976",
+    "mobile": "954.454.4574",
+    "mail": "lizanemat@elliman.com"
+},
+{
+    "image": "./image/12.jfif",
+    "name": "Oviya Talwar",
+    "title": "Licensed Associate Real Estate Broker",
+    "office": "352.658.4007",
+    "mobile": "917.763.8614",
+    "mail": "reenatalwar@elliman.com"
+},
+{
+    "image": "./image/13.png",
+    "name": "Peter Douglas",
+    "title": "Licensed Associate Real Estate Broker",
+    "office": "212.702.4007",
+    "mobile": "912.369.5874",
+    "mail": "richard@elliman.com"
+},
+{
+    "image": "./image/14.jfif",
+    "name": "Quckar Parker",
+    "title": "Licensed Associate Real Estate Broker",
+    "office": "456.236.2365",
+    "mobile": "532.652.2587",
+    "mail": "hollyparker@elliman.com"
+},
+{
+    "image": "./image/15.jfif",
+    "name": "Roman Parker",
+    "title": "Licensed Associate Real Estate Broker",
+    "office": "285.265.2107",
+    "mobile": "927.753.8614",
+    "mail": "peterparker@elliman.com"
+},
+{
+    "image": "./image/16.jfif",
+    "name": "Steve Sonsino",
+    "title": "Licensed Associate Real Estate Broker",
+    "office": "232.702.4888",
+    "mobile": "947.753.8114",
+    "mail": "genevievesonsino@elliman.com"
+},
+{
+    "image": "./image/17.jfif",
+    "name": "Tomaz Katzen",
+    "title": "Licensed Associate Real Estate Broker",
+    "office": "212.702.4007",
+    "mobile": "917.763.8614",
+    "mail": "frances@elliman.com"
+},
+{
+    "image": "./image/18.jfif",
+    "name": "U Sarah",
+    "title": "Licensed Associate Real Estate Broker",
+    "office": "285.265.2107",
+    "mobile": "985.265.8614",
+    "mail": "italiansarah@elliman.com"
+},
+{
+    "image": "./image/19.jfif",
+    "name": "Van Isen",
+    "title": "Licensed Associate Real Estate Broker",
+    "office": "212.702.4007",
+    "mobile": "917.763.8614",
+    "mail": "patrick@elliman.com"
+},
+{
+    "image": "./image/20.jfif",
+    "name": "Washington Elisas",
+    "title": "Licensed Associate Real Estate Broker",
+    "office": "285.265.2107",
+    "mobile": "985.265.8614",
+    "mail": "yassine@elliman.com"
+},
+{
+    "image": "./image/21.jfif",
+    "name": "Nicole Harster",
+    "title": "Licensed Associate Real Estate Broker",
+    "office": "212.702.4007",
+    "mobile": "917.763.8614",
+    "mail": "Qian@elliman.com"
+},
+{
+    "image": "./image/22.jfif",
+    "name": "Karina Hazan",
+    "title": "Licensed Associate Real Estate Broker",
+    "office": "212.702.4007",
+    "mobile": "917.763.8614",
+    "mail": "karinahazan@elliman.com"
+},
+{
+    "image": "./image/23.jfif",
+    "name": "Xing Wing",
+    "title": "Licensed Associate Real Estate Broker",
+    "office": "262.742.4896",
+    "mobile": "897.763.8854",
+    "mail": "alexsalem@elliman.com"
+},
+{
+    "image": "./image/20.jfif",
+    "name": "Yan Hawkins",
+    "title": "Licensed Associate Real Estate Broker",
+    "office": "252.802.3697",
+    "mobile": "977.773.8884",
+    "mail": "charles@elliman.com"
+},
+{
+    "image": "./image/25.jfif",
+    "name": "Zen Salem",
+    "title": "Licensed Associate Real Estate Broker",
+    "office": "212.702.4007",
+    "mobile": "917.763.8614",
+    "mail": "Wale@elliman.com"
+},
+{
+    "image": "./image/26.jfif",
+    "name": "Zen salem",
+    "title": "Licensed Associate Real Estate Broker",
+    "office": "285.265.2107",
+    "mobile": "985.265.8614",
+    "mail": "Tony@elliman.com"
+}
+]
